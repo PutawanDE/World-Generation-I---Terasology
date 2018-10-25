@@ -1,0 +1,11 @@
+{
+    "id" : "WorldGenI",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "Tanadol Deachprapakorn",
+    "displayName" : "WorldGenI",
+    "description" : "",
+    "dependencies" : [
+        {"id": "Core", "minVersion": "2.0.0"}
+        ],
+    "serverSideOnly" : false
+}
